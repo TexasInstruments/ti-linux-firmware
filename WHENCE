@@ -6312,22 +6312,22 @@ File: ti-ipc/am64xx/am64-mcu-m4f0_0-fw
 Version: 12.01.00.17
 
 File: ti-ipc/am62xx/am62-mcu-m4f0_0-fw
-Version: 12.00.00.04
+Version: 12.02.00.04
 
 File: ti-ipc/am62axx/am62a-mcu-r5f0_0-fw
-Version: 12.01.00.05
+Version: 12.02.00.04
 
 File: ti-ipc/am62axx/dsp_edgeai_c7x_1_release_strip.out
 Version: 11.02.00.03
 
 File: ti-ipc/am62axx/ipc_echo_test_c7x_1_release_strip.xe71
-Version: 12.00.00.04
+Version: 12.02.00.04
 
 File: ti-ipc/am62dxx/dsp_edgeai_c7x_1_release_strip.out
 Version: 12.01.00.06
 
 File: ti-ipc/am62pxx/am62p-mcu-r5f0_0-fw
-Version: 12.01.00.045
+Version: 12.02.00.04
 
 File: ti-ipc/j722s/ipc_echo_test_c7x_1_release_strip.xe71
 File: ti-ipc/j722s/ipc_echo_test_c7x_2_release_strip.xe71
