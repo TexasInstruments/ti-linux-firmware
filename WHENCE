@@ -6491,11 +6491,11 @@ File: ti-pruss/am335x-pru0-pruhsr-fw.elf
 File: ti-pruss/am335x-pru1-pruhsr-fw.elf
 File: ti-pruss/am437x-pru0-pruhsr-fw.elf
 File: ti-pruss/am437x-pru1-pruhsr-fw.elf
-Version: 3.00.00
+Version: REL.PRU-ICSS-HSR-FW_03.02.00
 
 File: ti-pruss/am57xx-pru0-pruhsr-fw.elf
 File: ti-pruss/am57xx-pru1-pruhsr-fw.elf
-Version: 2.21.00
+Version: REL.PRU-ICSS-HSR-FW_03.02.00
 
 License: Redistributable. See LICENSE.ti for details.
 
@@ -6507,11 +6507,11 @@ File: ti-pruss/am335x-pru0-pruprp-fw.elf
 File: ti-pruss/am335x-pru1-pruprp-fw.elf
 File: ti-pruss/am437x-pru0-pruprp-fw.elf
 File: ti-pruss/am437x-pru1-pruprp-fw.elf
-Version: 3.00.00
+Version: REL.PRU-ICSS-HSR-FW_03.02.00
 
 File: ti-pruss/am57xx-pru0-pruprp-fw.elf
 File: ti-pruss/am57xx-pru1-pruprp-fw.elf
-Version: 2.21.00
+Version: REL.PRU-ICSS-HSR-FW_03.02.00
 
 License: Redistributable. See LICENSE.ti for details.
 
